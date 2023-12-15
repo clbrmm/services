@@ -73,7 +73,7 @@ README.md: Documentation about the project.
     ├── README.md
     └── package.json
 
-```
+'''
 
 
 ## Usage
@@ -93,10 +93,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 Remember to include a `LICENSE` file with the corresponding license text. Adjust as needed for specific details or additional sections.
-
-
-
-
-
-
-
