@@ -76,7 +76,6 @@ README.md: Documentation about the project.
 ├── .gitignore
 ├── README.md
 └── package.json
-
 '''
 
 
