@@ -30,9 +30,6 @@ Developing a sleek website reflecting a freelancer's identity and services using
 
 ## Project Structure
 
-
-
-```
 src: Contains the source code of the Next.js application.
     components: Reusable React components for different sections of the website.
     pages: Individual pages of the website (index and portfolio).
@@ -76,6 +73,7 @@ README.md: Documentation about the project.
 ├── .gitignore
 ├── README.md
 └── package.json
+
 '''
 
 
