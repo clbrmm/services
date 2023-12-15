@@ -40,38 +40,39 @@ public: Publicly accessible assets like images and favicon.
 README.md: Documentation about the project.
 
 
-'''markdown
-/project-root
-│
-├── src
-│   ├── components
-│   │   ├── Header.js
-│   │   ├── Portfolio.js
-│   │   ├── AppointmentForm.js
-│   │   └── SocialMediaIntegration.js
-│   │
-│   ├── pages
-│   │   ├── index.js
-│   │   └── portfolio.js
-│   │
-│   ├── styles
-│   │   ├── global.css
-│   │   ├── index.css
-│   │   └── portfolio.css
-│   │
-│   └── data
-│       └── services.json
-│
-├── public
-│   ├── images
-│   │   ├── portfolio-image1.jpg
-│   │   └── portfolio-image2.jpg
-│   │
-│   └── favicon.ico
-│
-├── .gitignore
-├── README.md
-└── package.json
+'''
+    /project-root
+    │
+    ├── src
+    │   ├── components
+    │   │   ├── Header.js
+    │   │   ├── Portfolio.js
+    │   │   ├── AppointmentForm.js
+    │   │   └── SocialMediaIntegration.js
+    │   │
+    │   ├── pages
+    │   │   ├── index.js
+    │   │   └── portfolio.js
+    │   │
+    │   ├── styles
+    │   │   ├── global.css
+    │   │   ├── index.css
+    │   │   └── portfolio.css
+    │   │
+    │   └── data
+    │       └── services.json
+    │
+    ├── public
+    │   ├── images
+    │   │   ├── portfolio-image1.jpg
+    │   │   └── portfolio-image2.jpg
+    │   │
+    │   └── favicon.ico
+    │
+    ├── .gitignore
+    ├── README.md
+    └── package.json
+
 '''
 
 
