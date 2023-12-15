@@ -40,8 +40,7 @@ public: Publicly accessible assets like images and favicon.
 README.md: Documentation about the project.
 
 
-'''
-
+'''markdown
 /project-root
 │
 ├── src
@@ -73,7 +72,6 @@ README.md: Documentation about the project.
 ├── .gitignore
 ├── README.md
 └── package.json
-
 '''
 
 
