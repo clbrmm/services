@@ -1,0 +1,19 @@
+# Robots.txt file for Restaurant Website
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
+
+# Specify directories or pages that should not be crawled
+Disallow: /admin/
+Disallow: /private/
+
+# Allow crawling of specific user-agents
+User-agent: Googlebot
+Allow: /images/
+
+# Set a crawl delay for all crawlers (in seconds)
+Crawl-delay: 10
+
+# Define sitemap location for search engines
+Sitemap: https://www.example.com/sitemap.xml

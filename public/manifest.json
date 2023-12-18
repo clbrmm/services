@@ -1,0 +1,35 @@
+{
+  "short_name": "Restaurant",
+
+  "name": "Restaurant Website",
+
+  "description": "A delightful restaurant website built with Next.js",
+
+  "start_url": "/",
+
+  "display": "standalone",
+
+  "background_color": "#ffffff",
+
+  "theme_color": "#3498db",
+
+  "icons": [
+    {
+      "src": "/images/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+
+  "related_applications": [],
+
+  "orientation": "any",
+
+  "scope": "/",
+
+  "display_launch": "standalone",
+
+  "lang": "en-US",
+
+  "custom_property": "custom_value"
+}
