@@ -1,0 +1,29 @@
+{
+    "name": "professional-services-website",
+    "version": "1.0.0",
+    "description": "Professional Services Website with Next.js",
+    "main": "index.js",
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+    },
+    "dependencies": {
+      "next": "^12.0.7",
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2"
+    },
+    "devDependencies": {
+      "typescript": "^4.4.4"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/clbrmm/services.git"
+    },
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/clbrmm/services/issues"
+    },
+    "homepage": "https://github.com/clbrmm/services#readme"
+  }
+  

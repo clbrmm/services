@@ -6,7 +6,7 @@
 
 # Professional Services Website with Next.js
 
-Developing a sleek website reflecting a freelancer's identity and services using Next.js.
+Developing a sleek website reflecting a professional's identity and services using Next.js.
 
 ## Features
 
