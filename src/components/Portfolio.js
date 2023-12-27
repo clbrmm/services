@@ -21,14 +21,14 @@ const Portfolio = () => {
   ];
 
   return (
-    <section>
+    <section className="portfolio">
       <h2>Portfolio</h2>
-      <div>
+      <div className="portfolio-grid">
         {portfolioItems.map((item) => (
-          <div key={item.id}>
-            <img src={`/images/${item.image}`} alt={item.title} />
-            <h3>{item.title}</h3>
-            <p>{item.description}</p>
+          <div key={item.id} className="portfolio-item">
+            <img src={`/images/${item.image}`} alt={item.title} className="portfolio-image" />
+            <h3 className="portfolio-title">{item.title}</h3>
+            <p className="portfolio-description">{item.description}</p>
           </div>
         ))}
       </div>

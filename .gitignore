@@ -5,25 +5,73 @@ node_modules/
 /.next/
 /out/
 
-# Visual Studio Code
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Dependency directories
+.pipenv/
+venv/
+env/
+env.bak/
+env1/
+env2/
+
+# Editor-specific files
 .vscode/
+.idea/
+
+# Log files
+*.log
 
 # macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
 
 # Windows
 Thumbs.db
-desktop.ini
+ehthumbs.db
 
-# Editor-specific files
-*.log
-*.iml
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# Environment variables
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+# JetBrains IDEs
+.idea/
 
-# Build artifacts
-/build/
+# Sublime Text
+.sublime-project
+.sublime-workspace
+
+# Visual Studio Code
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# Compiled Java files
+*.class
+
+# Compiled C++ files
+*.out
+
+# Package files
+*.tar.gz
+*.zip
+
+# Environment variables file
+.env

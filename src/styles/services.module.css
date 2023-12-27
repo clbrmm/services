@@ -1,0 +1,36 @@
+/* Arquivo: services.module.css */
+
+.services {
+    padding: 2rem;
+  }
+  
+  .list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .item {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .link:hover {
+    color: #000;
+  }
+  
+  .image {
+    width: 100px;
+    height: 100px;
+    margin-right: 1rem;
+  }
+  
+
+  
